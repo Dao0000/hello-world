@@ -1,3 +1,6 @@
 # hello-world
 Learning how to use
-Well, it seems that there is something different with the tutorial.
+
+Hi, I'm a new learner!
+I'm following the tutorial to learn how to use the github.
+
